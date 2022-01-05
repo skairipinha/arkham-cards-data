@@ -12,39 +12,42 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 
 msgid "Have You Seen the Yellow Sign?"
-msgstr ""
+msgstr "Viu o símbolo amarelo?"
 
 msgid "“He mentioned the establishment of the Dynasty in Carcosa, the lakes which connected Hastur, Aldebaran, and the mystery of the Hyades. He spoke of Cassilda and Camilla, and sounded the cloudy depths of Demhe and the Lake of Hali.” – Robert W. Chambers, “The Repairer of Reputations”"
-msgstr ""
+msgstr "“Ele mencionou a criação da Dinastia em Carcosa, os lagos que conectavam Hastur, Aldebaran e o mistério de Hyades. [Ele] falou de Cassilda e Camilla, e descreveu as profundezas enevoadas de Demhe e do Lago de Hali.” - Robert W. Chambers, “O Reparador de Reputações”"
 
 msgid "New Keyword: Hidden"
-msgstr ""
+msgstr "Novo Traço: Escondido"
 
 msgid "Some encounter cards in <i>The Path to Carcosa</i> campaign have the “hidden” keyword. Hidden cards have <b>Revelation</b> abilities that secretly add them to your hand. This should be done without revealing that card or its text to the other investigators. While a hidden card is in your hand, treat it as if it were in your threat area. Its Constant abilities are active, and abilities on it can be triggered, but only by you. A hidden card counts toward your hand size, but it cannot be discarded from your hand by any means except those described on the card. When discarded, hidden cards are placed in the encounter discard pile. They do not remain a part of your deck like weaknesses do. For the best experience, players are encouraged to stay “in character” and not share information about hidden cards in their hand."
-msgstr ""
+msgstr "Algumas cartas na campanha <i>O Caminho para Carcosa</i> tem o traço “escondido”. Cartas escondidas têm habilidades de <b>Revelação</b> que as adicionam secretamente à sua mão. Isso deve ser feito sem revelar aquela carta ou seu texto aos outros investigadores. Enquanto uma carta escondida está em sua mão, a trate como se estivesse na área de ameaças. Suas habilidades Constantes estão ativas e habilidades descritas nela podem ser ativadas, mas apenas por você. Uma carta escondida conta em relação ao limite de cartas na sua mão, mas não pode ser descartada de sua mão por quaisquer meios exceto aqueles descritos nela. Ao ser descartada, uma carta escondida é colocada na pilha de descarte do deck de encontros. Elas não se tornam parte de seu deck como as fraquezas. Para a melhor experiência, os jogadores são encorajados a se manter dentro do personagem e não compartilhar informações sobre cartas escondidas em sua mão."
 
 msgid "Doubt and Conviction"
-msgstr ""
+msgstr "Dúvida e Convicção"
 
 msgid ""
 "Some story resolutions and interludes in The Path to Carcosa campaign instruct the players to “Mark one <b>Doubt</b>” or “Mark one <b>Conviction</b>” in their Campaign Log. This is done by filling in one of the boxes next to “<b>Doubt</b>” or “<b>Conviction</b>” in the Campaign Log.\n"
 "Later in the campaign, some scenarios may be changed or altered depending on whether the investigators “have more <b>Doubt</b> than <b>Conviction</b>” or “have more <b>Conviction</b> than <b>Doubt</b>.” The investigators have more <b>Doubt</b> than <b>Conviction</b> if the number of boxes filled in next to <b>Doubt</b> is greater than the number of boxes filled in next to <b>Conviction</b> (and vice versa). <b>Doubt</b> and <b>Conviction</b> are shared among all of the investigators, and they are not tied to any specific investigator. <b>Doubt</b> and <b>Conviction</b> have no game effect except when explicitly referenced by the Campaign Guide or by a card effect."
 msgstr ""
+"Algumas resoluções e interlúdios na campanha <i>O Caminho para Carcosa</i> instruem os jogadores a “Marcar uma <b>Dúvida</b>” ou “Marcar uma <b>Convicção</b>” em seu Caderno de Campanha. Isso é feito marcando uma caixa ao lado de "<b>Dúvida</b>" ou "<b>Convicção</b>" no Caderno de Campanha.\n"
+"Posteriormente na campanha, alguns cenários podem sofrer influência ou ser alterados dependendo se os investigadores possuem “mais <b>Dúvida</b> do que <b>Convicção</b> ou se eles possuem “mais <b>Convicção</b> do que <b>Dúvida</b>“.
+Os investigadores possuem mais <b>Dúvida</b> do que <b>Convicção</b> se o número de caixas marcadas em <b>Dúvida</b> é maior do que o número de caixas marcadas em <b>Convicção</b> (e vice-versa). <b>Dúvida</b> e <b>Convicção</b> são compartilhadas entre todos os investigadores e não estão ligadas a nenhum deles em específico. <b>Dúvida</b> e <b>Convicção</b> não tem efeitos no jogo a não ser quando explicitamente referenciadas no Guia de Campanha ou por um efeito de carta."
 
 msgid "Story Cards"
-msgstr ""
+msgstr "Cartas de História"
 
 msgid "Story cards are a new cardtype in <i>The Path to Carcosa</i> campaign. These cards serve as an avenue for additional narrative and typically appear as the reverse side of another scenario card. When you are instructed to resolve a story card, simply read its story text and resolve its game text, if any."
-msgstr ""
+msgstr "Cartas de História são um novo tipo de cartas na campanha <i>O Caminho para Carcosa</i>. Estas cartas servem como um meio de integrar narrativas adicionais e tipicamente aparecem no lado reverso de uma carta de cenário. Quando instruído a resolver uma carta de história, simplesmente leia seu texto e resolva seus efeitos, se houver."
 
 msgid "<i>I want to watch the play</i>"
-msgstr ""
+msgstr "<i>Quero assistir à peça</i>"
 
 msgid "<i>I want to read the signs</i>"
-msgstr ""
+msgstr "<i>Quero ler os sinais</i>"
 
 msgid "<i>I want to speak the oath</i>"
-msgstr ""
+msgstr "<i>Quero fazer o juramento</i>"
 
 msgid "<i>I want <u>The King in Yellow</u></i>"
-msgstr ""
+msgstr "<i>Quero o <u>Rei de Amarelo</u></i>"
